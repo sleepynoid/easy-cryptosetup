@@ -1,4 +1,5 @@
 #!/bin/bash
+# version 0.2
 export loopdev=$(sudo losetup -f)
 con="container"
 echo "What do you wants?"
